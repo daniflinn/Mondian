@@ -28,8 +28,8 @@ void left() {
   rect(152, 15, 221, 60); //white rect right of top left corner
   
   //2 white rect just under the top left corner one
-  rect(15, 84, 83, 128); 
-  rect(15, 221, 83, 196); 
+  rect(15, 84, 83, 128);  //top one
+  rect(15, 221, 83, 196); //bottom one
   
   //three white rects under two yellows in the top center/left 
   rect(382, 221, 84, 128);    //first two congruent ones
@@ -44,7 +44,7 @@ void left() {
   //yellow rect in the top center/left
   rect(382, 84, 177, 128); //biger one
   //yellow rect on the left side
-  //rect(15, 
+  rect(15, 426 , 84, 196); 
   
   
   
